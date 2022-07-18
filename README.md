@@ -1,1 +1,2 @@
 # DHSA
+## The system is designed in such a way that it automatically takes photos after fixed time intervals outside the house and stores those photos on a cloud storage and compares his or her face with the photos in the storage to check whether he or she is a human.If he is a human an alert gets activated. As the photos are taken in real time, several problems like unequal illumination and changes in the background may affect the system.
